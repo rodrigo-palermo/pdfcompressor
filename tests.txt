@@ -1,0 +1,7 @@
+py pdf_compressor.py -o C:\out.pdf -c 0 C:\in.pdf
+
+py pdf_compressor.py -o out.pdf -c 0 in.pdf
+py pdf_compressor.py -o out.pdf -c 3 in.pdf
+py pdf_compressor.py -o out.pdf -c 4 in.pdf
+
+py pdf_compressor.py in.pdf
